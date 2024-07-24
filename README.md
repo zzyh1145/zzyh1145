@@ -5,7 +5,7 @@
 ## 我常用的语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyh1145&layout=compact)
 ## 数据统计
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzyh1145&show_icons=true&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzyh1145&show_icons=true&theme=tokyonight&locale=cn) 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zzyh1145&theme=github-dark)
 
