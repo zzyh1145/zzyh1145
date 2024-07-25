@@ -1,4 +1,4 @@
-# Hi,there! 你好! :wave:
+# Hey,there! 你好! :wave:
 
 我是Citruy_404,一名学生,初中在读中
 
