@@ -3,7 +3,7 @@
 我是Citruy_404,一名学生,初中在读.
 
 ## 数据统计
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyh1145&theme=dark&locale=cn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyh1145&theme=dark&locale=cn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzyh1145&show_icons=true&theme=dark&locale=cn&icon_color=FFFFFF) 
 
