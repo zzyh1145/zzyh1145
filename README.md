@@ -1,6 +1,6 @@
 # Hey,there! 你好! :wave:
 
-我是Citruy_404,一名学生,初中在读.
+一名学生,初中在读~
 
 ## 数据统计
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyh1145&theme=dark&locale=cn)
