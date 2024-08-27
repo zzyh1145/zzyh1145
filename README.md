@@ -1,5 +1,7 @@
 # Hey ! :wave:
 
+うたう 僕らになれるうた うたう<br>
+ここではじめよう もう一度
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyh1145&theme=dark)
 
