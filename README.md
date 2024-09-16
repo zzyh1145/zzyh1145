@@ -2,7 +2,7 @@
 
 ここではじめよう もう一度
 
-It's MyGO!!!!!
+***It's MyGO!!!!!***
 ![ak5uc-88k63.jpg](https://s2.loli.net/2024/09/15/zkdIYrVO2xvH8gp.jpg)
 
 ----
